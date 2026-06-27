@@ -29,7 +29,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * **[TPQA Management System](https://github.com/Once-1296/dbms_minmax_proj_1)**: Built with React, Next.js, PostgreSQL, and FastAPI. Reduced API response times by over 50% and eliminated data redundancy via a 3NF/BCNF-normalized schema.
 * **[AI-Powered Device Health Monitor](https://github.com/MohdHedayati/System-Health-Metric-Analyser)**: Engineered using PyQt5, Streamlit, Supabase, ChromaDB, and RAG. Enabled autonomous anomaly diagnosis across a distributed multi-agent platform.
-* **A* Pathfinding Visualizer**: Developed in Python and Pygame. Delivered real-time interactive pathfinding visualization with provably optimal shortest-path computation.
 
 ### 🏆 Achievements & Competitive Programming
 
