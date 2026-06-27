@@ -1,13 +1,13 @@
-[cite_start]Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Taha Valiji [cite: 2]
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Taha Valiji
 ============================================================================================================================================
 
 ### Computer Engineering Student | Competitive Programmer | Backend Developer
 ---------------------------------------------------------
 
-* [cite_start]🎓 I am a Computer Engineering student at VJTI[cite: 4, 9, 10].
-* [cite_start]🧠 I specialize in highly scalable backend architecture, distributed systems, and machine learning integrations[cite: 4].
-* [cite_start]✉️ You can contact me at tahavaliji52@gmail.com[cite: 3].
-* [cite_start]🔗 Let's connect on LinkedIn: linkedin.com/in/taha-valiji[cite: 3].
+* 🎓 I am a Computer Engineering student at VJTI.
+* 🧠 I specialize in highly scalable backend architecture, distributed systems, and machine learning integrations.
+* ✉️ You can contact me at [tmvaliji_b24@it.vjti.ac.in](mailto:tmvaliji_b24@it.vjti.ac.in).
+* 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/taha-valiji-512b5732b/).
 
 ### 💻 Tech Stack
 <p align="left">
@@ -27,15 +27,15 @@
 
 ### 🚀 Projects
 
-* [cite_start]**TPQA Management System**: Built with React, Next.js, PostgreSQL, and FastAPI[cite: 23]. [cite_start]Reduced API response times by over 50% [cite: 25] [cite_start]and eliminated data redundancy via a 3NF/BCNF-normalized schema[cite: 26].
-* [cite_start]**AI-Powered Device Health Monitor**: Engineered using PyQt5, Streamlit, Supabase, ChromaDB, and RAG[cite: 30]. [cite_start]Enabled autonomous anomaly diagnosis across a distributed multi-agent platform[cite: 32].
-* [cite_start]**A* Pathfinding Visualizer**: Developed in Python and Pygame[cite: 27]. [cite_start]Delivered real-time interactive pathfinding visualization [cite: 29] [cite_start]with provably optimal shortest-path computation[cite: 28].
+* **[TPQA Management System](https://github.com/Once-1296/dbms_minmax_proj_1)**: Built with React, Next.js, PostgreSQL, and FastAPI. Reduced API response times by over 50% and eliminated data redundancy via a 3NF/BCNF-normalized schema.
+* **[AI-Powered Device Health Monitor](https://github.com/MohdHedayati/System-Health-Metric-Analyser)**: Engineered using PyQt5, Streamlit, Supabase, ChromaDB, and RAG. Enabled autonomous anomaly diagnosis across a distributed multi-agent platform.
+* **A* Pathfinding Visualizer**: Developed in Python and Pygame. Delivered real-time interactive pathfinding visualization with provably optimal shortest-path computation.
 
 ### 🏆 Achievements & Competitive Programming
 
-* **Problem Solving**: Solved 650+ complex problems across LeetCode, Codeforces, and CSES[cite: 5]. Specifically, 400+ on LeetCode, 150+ on Codeforces, and 100+ on CSES[cite: 35].
-* [cite_start]**Community**: CP Club Member at Community of Coders, VJTI[cite: 40].
-* [cite_start]**Academics**: Secured JEE-Advanced All-India Rank 15,161 and JEE-Mains 97.8 percentile[cite: 16].
+* **Problem Solving**: Solved 650+ complex problems across [LeetCode](https://leetcode.com/u/4B8QW85xlD/), [Codeforces](https://codeforces.com/profile/tahavaliji53), and [CSES](https://cses.fi/user/380001). Specifically, 400+ on LeetCode, 150+ on Codeforces, and 100+ on CSES.
+* **Community**: CP Club Member at Community of Coders, VJTI.
+* **Academics**: Secured JEE-Advanced All-India Rank 15,161 and JEE-Mains 97.8 percentile.
 
 ### 📊 Badges
 
