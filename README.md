@@ -1,5 +1,4 @@
 <h2 id="hi-im-taha-valiji">Hi, I'm Taha Valiji <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-
 <p align="left">
   <a href="mailto:tmvaliji_b24@it.vjti.ac.in?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -8,9 +7,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
 </p>
-
 <p>I am a Computer Engineering student at VJTI specializing in highly scalable backend architecture, distributed systems, and machine learning integrations. As a passionate competitive programmer and active CP Club Member, I have solved 650+ complex problems across LeetCode, Codeforces, and CSES.</p>
-
 <h2 id="tech-stack">Tech Stack<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
 <p align="left">
   <a href="#" target="_blank">
@@ -50,38 +47,44 @@
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"> 
   </a>
 </p>
-
 <h2 id="projects">Projects</h2>
-<a href="https://github.com/Once-1296/dbms_minmax_proj_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Once-1296&repo=dbms_minmax_proj_1&theme=tokyonight">
-</a>  
-<a href="https://github.com/MohdHedayati/System-Health-Metric-Analyser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohdHedayati&repo=System-Health-Metric-Analyser&theme=tokyonight">
-</a> 
-
-<br><br>
-
+<ul>
+  <li><strong><a href="https://github.com/Once-1296/dbms_minmax_proj_1" target="_blank">TPQA Management System</a></strong>: Built with React, Next.js, PostgreSQL, and FastAPI. Reduced API response times by over 50% and eliminated data redundancy via a 3NF/BCNF-normalized schema.</li>
+  <li><strong><a href="https://github.com/MohdHedayati/System-Health-Metric-Analyser" target="_blank">AI-Powered Device Health Monitor</a></strong>: Engineered using PyQt5, Streamlit, Supabase, ChromaDB, and RAG. Enabled autonomous anomaly diagnosis across a distributed multi-agent platform.</li>
+  <li><strong>A* Pathfinding Visualizer</strong>: Developed in Python and Pygame. Delivered real-time interactive pathfinding visualization with provably optimal shortest-path computation.</li>
+</ul>
 <h2 id="github-stats">Github Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"></h2>
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br>
   <p align="center">
-    <a href="https://github.com/tmvalijib24"><img alt="Taha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tmvalijib24&show_icons=true&count_private=true&theme=tokyonight" height="192px"></a>
-<br>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tmvalijib24&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="192px">
-  <br>
+    <a href="http://www.github.com/tmvalijib24" target="_blank">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=tmvalijib24&amp;show_icons=true&amp;count_private=true&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true" alt="tmvalijib24's GitHub stats" height="192px" />
+    </a>
+    
+<a href="http://www.github.com/tmvalijib24" target="_blank">
+  <img src="https://streak-stats.demolab.com/?user=tmvalijib24&amp;stroke=ffffff&amp;background=1c1917&amp;ring=0891b2&amp;fire=0891b2&amp;currStreakNum=ffffff&amp;currStreakLabel=0891b2&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" alt="GitHub Streak Stats" height="192px" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/tmvalijib24" target="_blank">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tmvalijib24&amp;langs_count=10&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20Languages" alt="Top Languages" height="192px" />
+</a>
+    
+![LeetCode Stats](https://leetcard.jacoblin.cool/Taha%20Valij?theme=nord&font=Coda&ext=heatmap)
+
   </p>
 </details>
-
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br>
-   <a href="https://github.com/tmvalijib24"><img alt="Taha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tmvalijib24&custom_title=Taha's%20Contribution%20Graph&theme=react-dark"></a>
+  <a href="https://github.com/tmvalijib24" target="_blank">
+    <img alt="Taha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tmvalijib24&amp;custom_title=Taha%27s%20Contribution%20Graph&amp;bg_color=1c1917&amp;color=0891b2&amp;line=0891b2&amp;point=ffffff&amp;hide_border=true" />
+  </a>
   <br>
 </details>
 <br>
-
 <hr>
 <p align="center">
   <img src="https://raw.githubusercontent.com/tmvalijib24/tmvalijib24/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Graph">
