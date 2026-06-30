@@ -1,9 +1,5 @@
 <h2 id="hi-im-taha-valiji">Hi, I'm Taha Valiji <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=0891b2&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Engineering+Student;I'm+a+Backend+Developer;I'm+a+Competitive+Programmer"></a>
-</p>
-
 <p align="left">
   <a href="mailto:tmvaliji_b24@it.vjti.ac.in?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -91,5 +87,3 @@
   <img src="https://raw.githubusercontent.com/tmvalijib24/tmvalijib24/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Graph">
 </p>
 <hr>
-
-<p>Credits: <a href="https://github.com/tmvalijib24">Taha Valiji</a></p>
