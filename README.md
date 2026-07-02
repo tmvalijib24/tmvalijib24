@@ -51,7 +51,6 @@
 <ul>
   <li><strong><a href="https://github.com/Once-1296/dbms_minmax_proj_1" target="_blank">TPQA Management System</a></strong>: Built with React, Next.js, PostgreSQL, and FastAPI. Reduced API response times by over 50% and eliminated data redundancy via a 3NF/BCNF-normalized schema.</li>
   <li><strong><a href="https://github.com/MohdHedayati/System-Health-Metric-Analyser" target="_blank">AI-Powered Device Health Monitor</a></strong>: Engineered using PyQt5, Streamlit, Supabase, ChromaDB, and RAG. Enabled autonomous anomaly diagnosis across a distributed multi-agent platform.</li>
-  <li><strong>A* Pathfinding Visualizer</strong>: Developed in Python and Pygame. Delivered real-time interactive pathfinding visualization with provably optimal shortest-path computation.</li>
 </ul>
 <h2 id="github-stats">Github Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"></h2>
 <details> 
