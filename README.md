@@ -12,13 +12,9 @@
 <img src="https://img.shields.io/badge/CGPA-7.48%2F10-4C1D95?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-312E81?style=for-the-badge" />
 
-<br/><br/>
-
 <a href="https://linkedin.com/in/taha-valiji" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:tahavaliji52@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/tmvalijib24" target="_blank"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=tmvalijib24&color=6D28D9&style=for-the-badge&label=PROFILE%20VIEWS" />
 <img src="https://img.shields.io/github/followers/tmvalijib24?style=for-the-badge&color=4C1D95&labelColor=160f26&logo=github&logoColor=white&label=FOLLOWERS" />
@@ -66,21 +62,6 @@ I'm a Computer Engineering student at **VJTI**, building toward a career in back
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-4C1D95?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Colab-6D28D9?style=for-the-badge&logo=googlecolab&logoColor=white" />
-
----
-
-## 🧠 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:---:|:---:|:---|
-| Retrieval-Augmented Generation | Project-level | Built an agentic RAG pipeline over ChromaDB to correlate live telemetry for anomaly diagnosis |
-| Vector Databases | Project-level | Used ChromaDB for embedding storage & similarity search in a real-time monitoring system |
-| LLM Orchestration | Familiar | Used LangChain to structure AI agent workflows |
-| Applied ML & Coursework | Foundational | AI/ML coursework at VJTI; edge-based ML inference in a device health monitor |
-
-</div>
 
 ---
 
@@ -162,21 +143,6 @@ Contributed to Inheritance 2025 as a mentee, completing an AI/ML system monitori
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---|:---|
-| **Pratibha Samman** | Awarded by state MLA Chetaniya Kashyap for 90%+ merit in CBSE Class XII Boards — Ratlam, MP (2023) |
-| **JEE-Advanced** | All-India Rank 15,161 |
-| **JEE-Mains** | 97.8 percentile |
-| **Competitive Programming** | 650+ problems solved — 400+ LeetCode, 150+ Codeforces, 100+ CSES |
-
-</div>
-
----
-
 ## 💻 Coding Profiles
 
 <div align="center">
@@ -206,16 +172,6 @@ Contributed to Inheritance 2025 as a mentee, completing an AI/ML system monitori
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tmvalijib24&theme=algolia&no-frame=true&margin-w=12&column=4" />
-
-</div>
-
----
-
 ## ⚡ Contribution Activity
 
 <div align="center">
@@ -233,25 +189,6 @@ Contributed to Inheritance 2025 as a mentee, completing an AI/ML system monitori
 <img src="https://raw.githubusercontent.com/tmvalijib24/tmvalijib24/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Graph" />
 
 </div>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - Distributed Systems & System Design
-    - Advanced Machine Learning
-  building:
-    - Full-stack backend systems (FastAPI + PostgreSQL + Next.js)
-    - Agentic RAG pipelines
-  exploring:
-    - LLM orchestration with LangChain
-    - Open source contribution
-  open_to:
-    - Software Engineering Internships (Full-Stack / Backend / AI-ML)
-```
 
 ---
 
