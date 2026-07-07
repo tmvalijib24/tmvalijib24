@@ -70,8 +70,8 @@
 <a href="https://github.com/tmvalijib24" target="_blank">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tmvalijib24&amp;langs_count=10&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20Languages" alt="Top Languages" height="192px" />
 </a>
-    
-![LeetCode Stats](https://leetcard.jacoblin.cool/Taha%20Valij?theme=nord&font=Coda&ext=heatmap)
+
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=4B8QW85xlD&theme=nord)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
 
   </p>
 </details>
