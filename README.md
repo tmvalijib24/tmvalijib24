@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/VJTI-Computer%20Engineering-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VJTI-Information%20Technology-6D28D9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CGPA-7.48%2F10-4C1D95?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-312E81?style=for-the-badge" />
 
