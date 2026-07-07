@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:6D28D9&height=200&section=header&text=Taha%20Valiji&fontSize=56&fontColor=EDE9FE&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineering%20%7C%20Distributed%20Systems%20%7C%20Machine%20Learning&descAlignY=52&descSize=16" width="100%"/>
 
 <a href="#about-me">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Engineering+%40+VJTI;Backend+%26+Distributed+Systems;Applied+AI%2FML+Engineering;650%2B+DSA+Problems+Solved;Open+to+SWE+Internships+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Information+Technology+%40+VJTI;Backend+%26+Distributed+Systems;Applied+AI%2FML+Engineering;650%2B+DSA+Problems+Solved;Open+to+SWE+Internships+2026" alt="Typing SVG" />
 </a>
 
 <br/>
